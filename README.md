@@ -64,8 +64,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+  <a href="[https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/jimmy-chu-742838201/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
 <h3 align="center">⚡ Keep building. Keep learning. Keep shipping. ⚡</h3>
