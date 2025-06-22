@@ -14,11 +14,9 @@
   Actively researching <strong>cloud-native architecture</strong>, with a focus on microservices, container orchestration, and scalable backend system design.
 </p>
 
-<h2>🤝 Can Help With</h2>
+<h2>🤝Currently Contributing To</h2>
 <p>
-  Exploring <strong>LLM applications in the healthcare domain</strong>, particularly in automated medical report generation.<br>
-  Experienced in <strong>document preprocessing</strong> and <strong>large-scale data cleaning workflows</strong> for knowledge-based systems.
-  Working on <strong>multi-agent flow systems</strong> and <strong>RAG (Retrieval-Augmented Generation) pipeline optimization</strong> for intelligent, scalable applications.
+  1.Exploring <strong>LLM applications in the healthcare domain</strong>, particularly in automated medical report generation.<br>
 </p>
 
 
